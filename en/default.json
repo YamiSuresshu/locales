@@ -54,7 +54,7 @@
             "ALREADY_MUTE": "This user is already muted."
         },
         "unmute": {
-            "NOT_MUTE": "This user is not muted."
+            "NOT_MUTE": "This user is unmuted."
         },
         "tag": {
             "DONT_EXIST": "This tag doesn't exist.",
@@ -63,7 +63,7 @@
             "NO_TAGS": "{{guild}} doesn't have any tags."
         },
         "lsr": {
-            "NO_SETTINGS": "This guild doesn't have selfrole."
+            "NO_SETTINGS": "This guild doesn't have a selfrole."
         },
         "reputation": {
             "ALREADY_GIVEN": "You have already given a positive reputation point to this user.",
@@ -388,54 +388,54 @@
             "MENTION": "{{author}} awoo {{user}}."
         },
         "cry": {
-            "NO_MENTION": "{{author}} cry.",
-            "MENTION": "{{author}} cry because of {{user}}."
+            "NO_MENTION": "{{author}} is crying.",
+            "MENTION": "{{author}} is crying because of {{user}}."
         },
         "dab": {
-            "NO_MENTION": "{{author}} dab.",
-            "MENTION": "{{author}} dab on {{user}}."
+            "NO_MENTION": "{{author}} dabbed.",
+            "MENTION": "{{author}} dabbed on {{user}}."
         },
         "dance": {
-            "NO_MENTION": "{{author}} dance!",
-            "MENTION": "{{author}} dance with {{user}}!"
+            "NO_MENTION": "{{author}} danced!",
+            "MENTION": "{{author}} danced with {{user}}!"
         },
         "hug": {
-            "NO_MENTION": "{{author}} hug.. himself?",
-            "MENTION": "{{author}} hug {{user}}."
+            "NO_MENTION": "{{author}} hugged.. himself/herself?",
+            "MENTION": "{{author}} hugged {{user}}."
         },
         "kiss": {
-            "NO_MENTION": "{{author}} kiss.. himself?",
-            "MENTION": "{{author}} kiss {{user}}."
+            "NO_MENTION": "{{author}} kissed.. himself/herself?",
+            "MENTION": "{{author}} kissed {{user}}."
         },
         "lewd": {
             "NO_MENTION": "{{author}} is lewd!",
-            "MENTION": "{{author}} say {{user}} is lewd."
+            "MENTION": "{{author}} find {{user}} lewd."
         },
         "lick": {
-            "NO_MENTION": "{{author}} lick.. an ice cream?",
-            "MENTION": "{{author}} lick {{user}}."
+            "NO_MENTION": "{{author}} licked... something",
+            "MENTION": "{{author}} licked {{user}}."
         },
         "owo": "What's this?",
         "pat": {
-            "NO_MENTION": "{{author}} pat.. a dog?",
-            "MENTION": "{{author}} pat {{user}}."
+            "NO_MENTION": "{{author}} patted.. a dog?",
+            "MENTION": "{{author}} patted {{user}}."
         },
         "pouting": {
-            "NO_MENTION": "{{author}} pout.. a loli?",
-            "MENTION": "{{author}} pout {{user}}."
+            "NO_MENTION": "{{author}} pouted.. a loli?",
+            "MENTION": "{{author}} pouted {{user}}."
         },
         "slap": {
-            "NO_MENTION": "{{author}} slap.. him self?",
-            "MENTION": "{{author}} slap {{user}}."
+            "NO_MENTION": "{{author}} slapped... himself/herself?",
+            "MENTION": "{{author}} slapped {{user}}."
         },
-        "sleepy": "{{author}} feel sleepy 💤.",
+        "sleepy": "{{author}} feels sleepy 💤.",
         "sumfuk": {
             "NO_MENTION": "{{author}} want sumfuk.",
-            "MENTION": "{{author}} want fuk {{user}}."
+            "MENTION": "{{author}} want to fuk {{user}}."
         },
         "triggered": {
             "NO_MENTION": "{{author}} is triggered.",
-            "MENTION": "{{author}} is triggered because {{user}}."
+            "MENTION": "{{author}} is triggered because of {{user}}."
         }
     },
     "collector": {
